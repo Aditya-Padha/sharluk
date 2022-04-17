@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://64.media.tumblr.com/c028f8ba974ab41f7d8a5841eb7477b7/tumblr_okz8qor68v1tqou9go1_640.gifv)](https://sharluk.io)
+[![MasterHead](https://img.wattpad.com/2d73586abaaf9378f852545cf9b9d5ba0df2b0f1/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f304c4675506d79584c517a4755513d3d2d313036393137313438362e313639356531343636396163353933333331333234353132333139302e676966)](https://sharluk.io)
 <h1 align="center">Hi 👋, I'm Aditya Padha</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<img align = "right" alt="Coding" width="400" src"https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharluk&label=Profile%20views&color=0e75b6&style=flat" alt="sharluk" /> </p>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **CP**
 
 - 📫 How to reach me **padha.aditya.2016589@gmail.com**
 
